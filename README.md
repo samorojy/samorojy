@@ -16,7 +16,7 @@ val VseslavKasatsky = developer {
 
     contacts {
         telegram = "@samorojy"    
-        email = "samorojyo@gmail.com"
+        email = "samorojy@gmail.com"
         linkedin = "https://www.linkedin.com/in/vseslav-kasatsky/"
     }
 }

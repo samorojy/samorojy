@@ -11,7 +11,7 @@ val VseslavKasatsky = developer {
 
     technologies {
         val languages = listOf("Kotlin", "Python", "Java", "C")
-        val tools = listOf("Git", "Docker","PostgreSQL", "IntelliJ")
+        val tools = listOf("Git", "Docker","PostgreSQL", "Exposed", "IntelliJ")
     }
 
     contacts {

@@ -6,7 +6,7 @@
 val VseslavKasatsky = developer {
     about {
         name = "Vseslav Kasatsky"
-        role = SPbU student
+        role = SPbU.student
     }
 
     technologies {
